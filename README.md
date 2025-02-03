@@ -1,3 +1,1 @@
-# [http-s-edagocer-.github.io-
-](https://edagocer.github.io/aboutme.html
-)
+# http-s-edagocer-.github.io-
